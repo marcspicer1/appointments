@@ -15,7 +15,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd appointments
 
 Install all the dependencies using composer
 
